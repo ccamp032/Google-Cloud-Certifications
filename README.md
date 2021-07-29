@@ -1,2 +1,2 @@
 # Google-Cloud-Certifications
-Google Cloud Certifications Offered By Goggle Through Coursera
+Google Cloud Certifications Offered By Google Through Coursera
